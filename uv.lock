@@ -152,7 +152,7 @@ dependencies = [
 requires-dist = [
     { name = "binaryornot", specifier = "==0.4.4" },
     { name = "cookiecutter", specifier = "==2.6" },
-    { name = "django-upgrade", specifier = "==1.21" },
+    { name = "django-upgrade", specifier = "==1.22.0" },
     { name = "djlint", specifier = "==1.35.2" },
     { name = "jinja2", specifier = "==3.1.4" },
     { name = "pre-commit", specifier = "==4.0.1" },
@@ -189,14 +189,14 @@ wheels = [
 
 [[package]]
 name = "django-upgrade"
-version = "1.21.0"
+version = "1.22.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "tokenize-rt" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/2e/30/5215e526e054831cbbc454ce81fb5e825224019824a185e3c011cf199b90/django_upgrade-1.21.0.tar.gz", hash = "sha256:e65021029e7d18b407bd128a8ccb31e5e06685068b37b6b1eaf2f77aa3d3df98", size = 66708 }
+sdist = { url = "https://files.pythonhosted.org/packages/6d/7c/7106902c3ba4b100a24ca26f0f7395c103b805cbd10c583cea359a5921f3/django_upgrade-1.22.0.tar.gz", hash = "sha256:f7b7576ac6fb12522f66b3044126194babc80f3a9a7833a2ad2dc323d3725730", size = 67744 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/56/76/7a7eeb88657abf8a0f97fbab4f6600be2ec89577e3695c395b47e6860ec5/django_upgrade-1.21.0-py3-none-any.whl", hash = "sha256:a0a7b11d5108fb2d3038cea2382c1332c9be4ff5059a38357fbd28116ebf3803", size = 67796 },
+    { url = "https://files.pythonhosted.org/packages/78/26/f56739ee73c1df13ae36cc30f6c5555cbef4282849cf11a0d486a21aec96/django_upgrade-1.22.0-py3-none-any.whl", hash = "sha256:19d0d6f3c7482a92973835c88bd6692b7d861e93a0933ef6b8a8563cc996161e", size = 69023 },
 ]
 
 [[package]]
